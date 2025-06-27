@@ -17,6 +17,9 @@ Passionate about software engineering and performance optimization. Actively lea
 ##### InfraStructure & Others
 - Kubernetes, Python, Docker, Aws, Google Cloud (Working knowledge)
 
+- ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devsikal&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!---- 👋 Hi, I’m @devsikal
 <p>
         <img src="https://github-readme-stats.vercel.app/api?username=devsikal&hide=contribs&theme=transparent" alt="Sikal's Github stats" />
