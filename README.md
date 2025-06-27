@@ -20,7 +20,7 @@ Passionate about software engineering and performance optimization. Actively lea
 - ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devsikal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikal10&count_private=true&include_all_commits=true&show_icons=true&theme=holi&custom_title=Stats" alt="My GitHub Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sikal10&count_private=true&include_all_commits=true&show_icons=true&theme=holi&custom_title=Stats" alt="My GitHub Stats" /> -->
 
 
 <!---- 👋 Hi, I’m @devsikal
